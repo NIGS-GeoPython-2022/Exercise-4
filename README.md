@@ -18,7 +18,7 @@ You will create a simple tool that converts seismic moment from one kind of temp
 
 ### Clone the Exercise 4 repository
 
-Before starting to work with the problems for this week, you should start a new JupyterLab instance and clone your own Exercise 4 repository (e.g., `exercise-4-jdaled`) in the instance using Git as we saw in [**Lesson 2**](https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/git-basics.html#clone-a-repository-from-github).
+Before starting to work with the problems for this week, you should start a new JupyterLab instance and use your own Exercise 4 repository (e.g., `exercise-4-jdaled`) that you will find in our [GitHub Classroom](https://classroom.github.com/classrooms/97962678-geol-197-gdam) or [the course GitHun page](https://github.com/NIGS-GeoPython-2022/).
 
 
 ## Start working
